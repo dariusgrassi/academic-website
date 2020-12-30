@@ -10,22 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Center Networking Research Intern
+role: Undergraduate Data Center Networking Research Assistant
 
 # Organizations/Affiliations
 organizations:
 - name: University of Illinois at Chicago
-  url: ""
+  url: "https://www.uic.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-
+interests:
+- Operating Systems
+- Computer Networking
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: enevelope
+- icon: envelope
   icon_pack: fas
   link: mailto:dgrassi2@uic.edu
 - icon: github
@@ -34,6 +36,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/darius-grassi/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -47,4 +52,10 @@ user_groups:
 - Visitors
 ---
 
-Hi, my name is Darius and I'm currently an undergraduate at UIC pursing a BS in computer science. Along with this, I also work as a research assistant on-campus. I currently am assisting [Komal Shinde](https://kshind2.people.uic.edu) under Professor [Brent Stephens](https://www.cs.uic.edu/~brents/). Specifically, I am currently researching Barefoot Tofino programmable switch configurations in P4 regarding ECN congestion and logical queues. 
+Hi, my name is Darius and I'm currently an undergraduate at UIC pursuing
+a BS in computer science. Along with this, I also work as a research
+assistant on-campus. I currently am assisting [Komal
+Shinde](https://kshind2.people.uic.edu) under Professor [Brent
+Stephens](https://www.cs.uic.edu/~brents/). Specifically, I am currently
+researching Barefoot Tofino programmable switch configurations in P4
+regarding ECN congestion and logical queues. 

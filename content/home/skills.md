@@ -17,12 +17,12 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  name = "Languages"
-  description = "Python, C, C++, Java"
+  name = "Programming Languages"
+  description = "Python, C, C++, Java, P4/Tofino"
   
 [[feature]]
   name = "Operating Systems"
-  description = "Linux, Windows, OSX"  
+  description = "Linux, Windows, MacOS"  
   
 [[feature]]
   name = "Other Tools"
