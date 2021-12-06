@@ -1,39 +1,33 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Darius Grassi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: ONF Research Intern & Undergraduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Illinois at Chicago
+  url: https://www.uic.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include software-defined networking, operating systems and algorithms
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software-defined Networking
+- Operating Systems
+- Algorithms
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Computer Science
+    institution: University of Illinois at Chicago
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +36,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:dgrassi2@uic.edu
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dariusgrassi
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/darius-grassi/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +61,17 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is Darius and I'm currently a senior undergraduate student
+at UIC pursuing a B.S. in computer science. I also recently completed an
+internship at the [Open Networking
+Foundation](https://opennetworking.org/), where I contributed to the
+[SD-Fabric](https://opennetworking.org/sd-fabric/) project by designing
+and implementing two new fully-automated line-rate test infrastructures.
+The first was for the Intel Tofino switch implementation of SD-Fabric,
+and the second was for a userspace software UPF built on
+[BESS](https://github.com/NetSys/bess).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I was also a research assistant to Professor [Brent
+Stephens](https://www.cs.utah.edu/~brent/).  With Professor Stephens, I
+worked on data center networking issues relating to in-network
+computing, TCP, ECN congestion and programmable hardware.
